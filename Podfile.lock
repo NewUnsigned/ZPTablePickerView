@@ -1,0 +1,16 @@
+PODS:
+  - MBProgressHUD (0.9.1)
+  - pop (1.0.8)
+  - VBFPopFlatButton (0.0.6):
+    - pop
+
+DEPENDENCIES:
+  - MBProgressHUD
+  - VBFPopFlatButton
+
+SPEC CHECKSUMS:
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  pop: bb773ae2c791ca2629de13b347e7a8b450fa6a57
+  VBFPopFlatButton: 782344da63f104c279a857d806e065117a7e1196
+
+COCOAPODS: 0.38.2
